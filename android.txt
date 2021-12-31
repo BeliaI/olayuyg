@@ -1,0 +1,3 @@
+title=Olaylar ve PopUp
+author=Ali Şimşek
+orientation=portrait
